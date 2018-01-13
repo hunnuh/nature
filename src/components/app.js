@@ -1,5 +1,7 @@
 import { h, Component } from 'preact';
 import { Router } from 'preact-router';
+import style from 'tachyons/css/tachyons.min';
+
 
 import Header from './header';
 import Home from '../routes/home';
